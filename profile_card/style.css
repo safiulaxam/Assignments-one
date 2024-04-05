@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.container{
+    background-color: rgb(241, 237, 230);
+    position:absolute;
+    border: 5px solid olivedrab;
+    text-align: center;
+    top: 35%;
+    left: 50%;
+    height: 300px;
+    width: 450px;
+    margin-top: -70px;
+    margin-left: -200px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px gray;
+    line-height: 10px;
+}
+img{
+    border-radius: 50%;
+    padding: 10px;
+}
+.tittle{
+    color: royalblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
